@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"graphlib": "2.1.1",
+		"lodash": "4.17.4",
+		"jointjs": "git+https://github.com/clientIO/joint.git#8b8e0fca0a3096127c32bea5834f12929c8b2d6c"
+	}
+}
